@@ -47,7 +47,7 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 💼 [LinkedIn](https://linkedin.com/in/gaurang-singh-75a7432b2)
 - 🧑‍💻 [GitHub](https://github.com/GAURANG1205)
 - 📩 Email: Gaurangs1205@gmail.com
 
