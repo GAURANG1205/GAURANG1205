@@ -17,7 +17,7 @@
 ### 🔧 Tech Stack
 
 - **Languages:** Dart, Java, SQL
-- **Mobile App:** Flutter, Dart
+- **Mobile App:** Flutter, Dart, Flutter-Bloc Or Cubit
 - **Backend:** Spring Boot, Firebase
 - **Database:** MySQL, Firebase Firestore
 - **Other Tools:** Redis, Kafka (basic), Gemini AI, Railway, Git, Cloudinary
